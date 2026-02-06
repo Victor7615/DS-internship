@@ -289,41 +289,40 @@ By week end, you can:
 
 ```
 Data_science_internship/
-├── Refactored_Py_DS_ML_Bootcamp-master/
-│   ├── INTERNSHIP_PROGRAM.md (Main overview)
-│   ├── QUICK_START.md (This file)
-│   ├── Week-1-2-Python-Fundamentals/
-│   │   ├── README.md (Learning guide)
-│   │   └── EXERCISES.md (Practice problems)
-│   ├── Week-3-4-NumPy/
-│   │   ├── README.md
-│   │   └── EXERCISES.md
-│   ├── Week-5-7-Pandas/
-│   │   ├── README.md
-│   │   └── EXERCISES.md
-│   ├── Week-8-9-Visualization/
-│   │   ├── README.md
-│   │   └── EXERCISES.md
-│   ├── Week-10-12-ML-Capstone/
-│   │   ├── README.md
-│   │   └── EXERCISES.md
-│   ├── 01-Python-Crash-Course/ (Study materials)
-│   ├── 02-Python-for-Data-Analysis-NumPy/
-│   ├── 03-Python-for-Data-Analysis-Pandas/
-│   ├── 04-Pandas-Exercises/
-│   ├── 05-Data-Visualization-with-Matplotlib/
-│   ├── 06-Data-Visualization-with-Seaborn/
-│   ├── 07-Pandas-Built-in-Data-Viz/
-│   ├── 08-Plotly-and-Cufflinks/
-│   ├── 09-Geographical-Plotting/
-│   ├── 11-Linear-Regression/
-│   ├── 13-Logistic-Regression/
-│   ├── 14-K-Nearest-Neighbors/
-│   ├── 15-Decision-Trees-and-Random-Forests/
-│   ├── 16-Support-Vector-Machines/
-│   ├── 17-K-Means-Clustering/
-│   ├── 18-Principal-Component-Analysis/
-│   └── ... (other folders)
+   ├── INTERNSHIP_PROGRAM.md (Main overview)
+   ├── QUICK_START.md (This file)
+   ├── Week-1-2-Python-Fundamentals/
+   │   ├── README.md (Learning guide)
+   │   └── EXERCISES.md (Practice problems)
+   ├── Week-3-4-NumPy/
+   │   ├── README.md
+   │   └── EXERCISES.md
+   ├── Week-5-7-Pandas/
+   │   ├── README.md
+   │   └── EXERCISES.md
+   ├── Week-8-9-Visualization/
+   │   ├── README.md
+   │   └── EXERCISES.md
+   ├── Week-10-12-ML-Capstone/
+   │   ├── README.md
+   │   └── EXERCISES.md
+   ├── 01-Python-Crash-Course/ (Study materials)
+   ├── 02-Python-for-Data-Analysis-NumPy/
+   ├── 03-Python-for-Data-Analysis-Pandas/
+   ├── 04-Pandas-Exercises/
+   ├── 05-Data-Visualization-with-Matplotlib/
+   ├── 06-Data-Visualization-with-Seaborn/
+   ├── 07-Pandas-Built-in-Data-Viz/
+   ├── 08-Plotly-and-Cufflinks/
+   ├── 09-Geographical-Plotting/
+   ├── 11-Linear-Regression/
+   ├── 13-Logistic-Regression/
+   ├── 14-K-Nearest-Neighbors/
+   ├── 15-Decision-Trees-and-Random-Forests/
+   ├── 16-Support-Vector-Machines/
+   ├── 17-K-Means-Clustering/
+   ├── 18-Principal-Component-Analysis/
+   └── ... (other folders)
 ```
 
 ---
